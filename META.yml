@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                App-DualLivedDiff
-version:             1.00
+version:             1.01
 abstract:            Diff between the perl core and dual-lived modules' CPAN distributions
 license:             perl
 author:              

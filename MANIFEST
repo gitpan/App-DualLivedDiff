@@ -1,4 +1,16 @@
 Changes
+config/to_blead/.dualLivedDiffConfig
+config/to_blead/Attribute-Handlers/.dualLivedDiffConfig
+config/to_blead/AutoLoader/.dualLivedDiffConfig
+config/to_blead/Class-ISA/.dualLivedDiffConfig
+config/to_blead/Filter-Simple/.dualLivedDiffConfig
+config/to_blead/Filter-Util-Call/.dualLivedDiffConfig
+config/to_blead/Getopt-Long/.dualLivedDiffConfig
+config/to_blead/lib/.dualLivedDiffConfig
+config/to_blead/Parse-CPAN-Meta/.dualLivedDiffConfig
+config/to_blead/PathTools/.dualLivedDiffConfig
+config/to_blead/SelfLoader/.dualLivedDiffConfig
+config/to_blead/Switch/.dualLivedDiffConfig
 example/.dualLivedDiffConfig
 example/README
 lib/App/DualLivedDiff.pm
